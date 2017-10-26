@@ -64,7 +64,7 @@ That file is like `config.js`, can be overrided by server shide shell script.
 
 So the `sockets.js` depends on `consts.js` and `connector.js`. And provide abstraction around the `socket.io-client`.
 
-*usege example - in aurelia*
+**usage example - in aurelia**
 
 ```js
 import socket from './socket';
